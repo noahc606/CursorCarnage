@@ -1,0 +1,8 @@
+/bin/data/userdata.nat
+/bin/data/userdata.nath
+/build
+/build-emscripten
+/build-release
+/include/nch/*
+/include/nch/*
+/include/nch/*
