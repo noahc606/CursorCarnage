@@ -1,0 +1,7 @@
+{
+    "mapData": {
+        "playerStart": [2, 1.5],
+        "cursorStart": [2, 1.5],
+        "par": 50
+    }
+}

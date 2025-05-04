@@ -1,0 +1,8 @@
+andgate_open_cursor.mp3     https://pixabay.com/sound-effects/window-opening-100430/
+andgate_open_player.mp3     https://pixabay.com/sound-effects/dorm-door-opening-6038/
+button.mp3:                 https://pixabay.com/sound-effects/running-on-metal-74791
+impact.wav:                 https://pixabay.com/sound-effects/strangedrone08-impact-21849/
+invincibility.mp3:          https://pixabay.com/sound-effects/stutter-80791/
+lose.mp3:                   https://freesound.org/people/mgamabile/sounds/440773
+spawn.mp3:                  https://pixabay.com/sound-effects/flourish-spacey-1-86845/
+win.mp3:                    https://pixabay.com/sound-effects/shimmer-synth-1-47675/
