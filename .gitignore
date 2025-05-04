@@ -6,3 +6,4 @@
 /include/nch/*
 /include/nch/*
 /include/nch/*
+build-emscripten.sh
