@@ -53,7 +53,7 @@ if(EMSCRIPTEN)
 endif()
 
 # Add libraries + link them into target
-target_link_libraries(${PROJ_OUT} PUBLIC "-lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf)
+target_link_libraries(${PROJ_OUT} PUBLIC "-lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf")
 get_target_property(TARGET_LIBS ${PROJ_OUT} LINK_LIBRARIES)
 message("[NCH] Linked libraries: ${TARGET_LIBS}")
 # Add include directories (everywhere there is a header file: libraries and PROJ src dirs)
